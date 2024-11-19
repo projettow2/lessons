@@ -48,3 +48,6 @@ Desktop.ini
 *.iml
 Assets/TutorialInfo/
 Assets/TutorialInfo.meta
+.vs/
+Assets/Readme.asset
+Assets/Readme.asset.meta
